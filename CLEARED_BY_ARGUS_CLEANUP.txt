@@ -1,0 +1,4 @@
+repo=OrMizrahi12/argus-wgs-us-plumbers-e4-r35-f31ee2af3a-concept
+cleared_at_utc=2026-05-19T09:10:43.585459+00:00
+action=disable_pages_and_force_push_minimal_main
+protocol=WGS
